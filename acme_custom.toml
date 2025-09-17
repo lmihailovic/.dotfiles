@@ -1,0 +1,30 @@
+# Alacritty theme
+# Colors (acme - custom)
+
+# Default colors
+[colors.primary]
+background = '#ffffeb'
+foreground = '#000000'
+
+# Normal colors
+[colors.normal]
+black	= '#101010'
+red	= '#6a0423'
+green	= '#2c7a2c'
+yellow	= '#bd8317'
+blue	= '#104aa1'
+magenta = '#713dad'
+cyan	= '#007a80'
+white	= '#dcdee3'
+
+# Bright colors
+[colors.bright]
+black	= '#a8adbd'
+red	= '#d43b48'
+green	= '#3db03d'
+yellow	= '#ffcd1a'
+blue	= '#2e80c7'
+magenta	= '#a651b3'
+cyan	= '#2ba6ab'
+white	= '#ffffff'
+
