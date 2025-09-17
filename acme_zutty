@@ -1,0 +1,25 @@
+Zutty.font:                     go-mono
+Zutty.fontpath:                 /usr/share/fonts:/home/lule/.local/share/fonts
+Zutty.altScroll:                true
+Zutty.bg:                       #ffffeb
+Zutty.fg:                       #000000
+Zutty.geometry:                 100x32
+Zutty.fontsize:                 16
+
+Zutty.color0: #101010
+Zutty.color1: #6a0423
+Zutty.color2: #2c7a2c
+Zutty.color3: #bd8317
+Zutty.color4: #104aa1
+Zutty.color5: #713dad
+Zutty.color6: #007a80
+Zutty.color7: #dcdee3
+
+Zutty.color8:  #a8adbd
+Zutty.color9:  #d43b48
+Zutty.color10: #3db03d
+Zutty.color11: #ffcd1a
+Zutty.color12: #2e80c7
+Zutty.color13: #a651b3
+Zutty.color14: #2ba6ab
+Zutty.color15: #ffffff
