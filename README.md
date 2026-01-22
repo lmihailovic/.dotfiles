@@ -6,3 +6,4 @@ No fiddling with `stow(1)` because that's too much overhead for something you do
 ## Files
 - acme\_alacitty.toml - custom acme inspired color scheme theme for alacritty
 - acme\_zutty - acme inspired configs for [zutty](https://tomscii.sig7.se/zutty/) terminal. Requires `Go Mono` installed on the system. Add to the end of `~/.Xresources`, and then run `xrdb -merge ~/.Xresources` for changes to apply
+- mpv.conf - duh.
