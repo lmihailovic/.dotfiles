@@ -13,5 +13,5 @@ No fiddling with `stow(1)` because that's too much overhead for something you do
 
 Resources used, but not suited to be stored in this repository:
 1. [Go font](https://www.fontsquirrel.com/fonts/go)
-2. [Redmond97 SE](https://codeberg.org/Sliver_X/Redmond97-SE) (Mistery theme)
+2. [Redmond97 SE](https://codeberg.org/Sliver_X/Redmond97-SE) (Mystery theme)
 3. [Bluecurve icons](https://www.gnome-look.org/p/1167536)
