@@ -3,6 +3,8 @@
 These dotfiles are just some configurations I deem worth keeping around.
 No fiddling with `stow(1)` because that's too much overhead for something you do once in a blue moon. Just copy and paste files as needed.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/62304afe-c53e-43eb-bc0c-62573c1555ce" />
+
 ## Files
 
 - `acme_alacritty.toml` - custom acme inspired color scheme theme for alacritty
