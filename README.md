@@ -7,8 +7,9 @@ No fiddling with `stow(1)` because that's too much overhead for something you do
 
 ## Files
 
-- `acme_alacritty.toml` - custom acme inspired color scheme theme for alacritty
-- `acme_zutty` - acme inspired configs for [zutty](https://tomscii.sig7.se/zutty/) terminal. Requires `Go Mono`. Add to the end of `~/.Xresources`, and then run `xrdb -merge ~/.Xresources` for changes to apply
+- `acme_alacritty.toml` - my custom acme inspired color scheme theme for alacritty.
+- `acme_zutty` - my custom acme inspired configs for [zutty](https://tomscii.sig7.se/zutty/) terminal. Requires `Go Mono`. Add to the end of `~/.Xresources`, and then run `xrdb -merge ~/.Xresources` for changes to apply.
+- `acme.them` - my custom acme inspiried theme for `xfce4-terminal`.
 - `mpv.conf` - duh.
 - `fish/` - technically a directory, but such is `fish`.
 

@@ -1,0 +1,11 @@
+[Scheme]
+Name=Acme
+ColorForeground=#000000
+ColorBackground=#ffffea
+ColorCursor=#444444
+ColorBold=#000000
+ColorSelection=#eaea9e
+ColorSelectionForeground=#000000
+
+; Standard 16 colors
+ColorPalette=#101010;#6a0423;#2c7a2c;#bd8317;#104aa1;#713dad;#007a80;#dcdee3;#a8adbd;#d43b48;#3db03d;#ffcd1a;#2e80c7;#a651b3;#2ba6ab;#ffffff
