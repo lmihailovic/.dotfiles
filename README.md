@@ -14,6 +14,7 @@ No fiddling with `stow(1)` because that's too much overhead for something you do
 | `acme.theme` | my custom acme inspired color scheme for `xfce4-terminal` | `~/.local/share/xfce4/terminal/colorschemes` |
 | `mpv.conf` | duh. | `~/.config/mpv/mpv.conf` |
 | `fish/` | technically a directory, but such is `fish` | `~/.config/fish/` |
+| emptty.conf | settings for the login manager | `/etc/emptty/conf` |
 
 ## Miscellaneous
 
