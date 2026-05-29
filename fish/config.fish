@@ -4,3 +4,4 @@ end
 
 set -gx TIME_STYLE '+%b %_d %Y %H:%M'
 set -g fish_greeting
+set --global --export LANG sr_RS.utf8

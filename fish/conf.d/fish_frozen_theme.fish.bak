@@ -16,10 +16,10 @@ set --global fish_color_error b2b2b2
 set --global fish_color_escape 00a6b2
 set --global fish_color_gray 
 set --global fish_color_history_current --bold
-set --global fish_color_host normal
+set --global fish_color_host --reset
 set --global fish_color_host_remote yellow
 set --global fish_color_keyword 
-set --global fish_color_normal normal
+set --global fish_color_normal --reset
 set --global fish_color_operator 00a6b2
 set --global fish_color_option 
 set --global fish_color_param 303030
@@ -31,9 +31,9 @@ set --global fish_color_status red
 set --global fish_color_user brgreen
 set --global fish_color_valid_path --underline=single
 set --global fish_pager_color_background 
-set --global fish_pager_color_completion normal
+set --global fish_pager_color_completion --reset
 set --global fish_pager_color_description B3A06D
-set --global fish_pager_color_prefix normal --bold --underline=single
+set --global fish_pager_color_prefix --bold --underline=single
 set --global fish_pager_color_progress brwhite --bold --background=cyan
 set --global fish_pager_color_secondary_background 
 set --global fish_pager_color_secondary_completion 
