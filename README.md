@@ -15,11 +15,16 @@ No fiddling with `stow(1)` because that's too much overhead for something you do
 | `mpv.conf` | duh. | `~/.config/mpv/mpv.conf` |
 | `fish/` | technically a directory, but such is `fish` | `~/.config/fish/` |
 | `emptty.conf` | settings for the login manager | `/etc/emptty/conf` |
-| `mdStyle.css` | stylings for `.md` files converted to `.html` | `pandoc -s --css=mdStyle.css --to=html5 input.md -o output.html` |
+| `mdStyle.css` | stylings for `.md` files converted to `.html` | same directory as `input.md`<sup>1</sup> |
+
+<sup>1</sup> Example of usage with `pandoc`:
+```shell
+pandoc -s --css=mdStyle.css --to=html5 input.md -o output.html
+```
 
 ## Miscellaneous
 
 Resources used, but not suited to be stored in this repository:
 1. [Go font](https://aur.archlinux.org/packages/ttf-go)
-2. [Redmond97 SE](https://codeberg.org/Sliver_X/Redmond97-SE) (Mystery theme)
-3. [Bluecurve icons](https://github.com/neeeeow/Bluecurve)
+2. [Redmond97 SE](https://codeberg.org/Sliver_X/Redmond97-SE)
+3. [Bluecurve](https://github.com/neeeeow/Bluecurve) (for the icons and the _Gnome_ theme variant in specific)
