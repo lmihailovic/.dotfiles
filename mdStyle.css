@@ -1,0 +1,60 @@
+:root {
+    color-scheme: light dark;
+
+    --darkmode-bg: #1d2021;
+    --darkmode-fg: #f9f5d7;
+    --darkmode-fg1: #a89984;
+
+    --lightmode-bg: #f2f0ef;
+    --lightmode-fg: #000;
+    --lightmode-fg1: #666;
+}
+
+::selection {
+    color: light-dark(var(--lightmode-bg), var(--lightmode-fg));
+    background-color: light-dark(var(--lightmode-fg), var(--darkmode-fg));
+}
+
+body {
+    max-width: 800px;
+    margin: 3rem auto 5rem auto;
+
+    background-color: light-dark(var(--lightmode-bg), var(--darkmode-bg));
+    color: light-dark(var(--lightmode-fg), var(--darkmode-fg));
+
+    font-family: "Arial", sans-serif;
+    font-size: 1.125rem;
+    line-height: 1.5;
+}
+
+h1 {
+    font-size: 1.75rem;
+}
+
+h2, h3 {
+    font-size: 1.5rem;
+}
+
+code {
+    font-size: 0.9rem;
+
+    background: light-dark(rgba(0, 0, 0, 0.07), rgba(255, 255, 255, 0.07));
+    padding: 2px 4px;
+    border-radius: 4px;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
+}
+
+table th {
+    border: 1px solid light-dark(var(--lightmode-fg), var(--darkmode-fg));
+    padding: 0.5rem;
+}
+
+table td {
+    border: 1px solid light-dark(var(--lightmode-fg), var(--darkmode-fg));
+    padding: 0.5rem;
+}
