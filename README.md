@@ -5,6 +5,9 @@ No fiddling with `stow(1)` because that's too much overhead for something you do
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/62304afe-c53e-43eb-bc0c-62573c1555ce" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4af3f0ae-ed27-47ba-a01d-26823fe7ab3b" />
+
+
 ## Files
 
 | File | Description | Location |
