@@ -15,7 +15,7 @@ No fiddling with `stow(1)` because that's too much overhead for something you do
 | `mpv.conf` | duh. | `~/.config/mpv/mpv.conf` |
 | `fish/` | technically a directory, but such is `fish` | `~/.config/fish/` |
 | `emptty.conf` | settings for the login manager | `/etc/emptty/conf` |
-| `mdStyle.css` | stylings for `.md` files converted to `.html` | wherever idk |
+| `mdStyle.css` | stylings for `.md` files converted to `.html` | `pandoc -s --css=mdStyle.css --to=html5 input.md -o output.html` |
 
 ## Miscellaneous
 
