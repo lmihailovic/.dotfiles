@@ -19,6 +19,7 @@ No fiddling with `stow(1)` because that's too much overhead for something you do
 | `fish/` | technically a directory, but such is `fish` | `~/.config/fish/` |
 | `emptty.conf` | settings for the login manager | `/etc/emptty/conf` |
 | `mdStyle.css` | stylings for `.md` files converted to `.html` | same directory as `input.md`<sup>1</sup> |
+| `redshift.conf` | data for redshift | `~/.config/redshift/redshift.conf`|
 
 <sup>1</sup> Example of usage with `pandoc`:
 ```shell
