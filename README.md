@@ -20,6 +20,7 @@ No fiddling with `stow(1)` because that's too much overhead for something you do
 | `emptty.conf` | settings for the login manager | `/etc/emptty/conf` |
 | `mdStyle.css` | stylings for `.md` files converted to `.html` | same directory as `input.md`<sup>1</sup> |
 | `redshift.conf` | data for redshift | `~/.config/redshift/redshift.conf`|
+| `helix/config.toml` | sets the theme for `helix` to acme | `~/.config/` |
 
 <sup>1</sup> Example of usage with `pandoc`:
 ```shell
